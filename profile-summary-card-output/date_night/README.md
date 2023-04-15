@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/siro33950/siro33950/main/profile-summary-card-output/date_night/4-productive-time.svg)
-```
-
-    
